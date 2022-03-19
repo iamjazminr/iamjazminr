@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamjazminr, Jazmin RG
 - 👀 I’m interested in robotics, AI, assistive medical technology, and everything in between
-- 🌱 I’m currently learning Python, C++, and more...
+- 🌱 I’m currently learning Python, C, and more...
 - 💞️ I’m looking to collaborate on projects related to the above fields 
 - 📫 How to reach me - jazmin.renteria.g@gmail.com
 
